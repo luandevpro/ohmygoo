@@ -1,0 +1,23 @@
+{
+    "name": "ohmygoo",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "bin": {
+        "ohmygoo": "./index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/luandevpro/ohmygoo.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/luandevpro/ohmygoo/issues"
+    },
+    "homepage": "https://github.com/luandevpro/ohmygoo#readme"
+}
