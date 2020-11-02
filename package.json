@@ -1,10 +1,10 @@
 {
-    "name": "ohmygoo",
+    "name": "ohmygooo",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
     "bin": {
-        "ohmygoo": "./index.js"
+        "ohmygooo": "./index.js"
     },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
