@@ -1,6 +1,6 @@
 {
     "name": "ohmygooo",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "",
     "main": "index.js",
     "bin": {
@@ -19,5 +19,8 @@
     "bugs": {
         "url": "https://github.com/luandevpro/ohmygoo/issues"
     },
-    "homepage": "https://github.com/luandevpro/ohmygoo#readme"
+    "homepage": "https://github.com/luandevpro/ohmygoo#readme",
+    "dependencies": {
+        "chalk": "^4.1.0"
+    }
 }
